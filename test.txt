@@ -1,2 +1,0 @@
-access_key: AKIAUOCKJZQETFZX4YFU
-secret_key: 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
